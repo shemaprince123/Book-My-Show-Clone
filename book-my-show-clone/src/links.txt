@@ -1,0 +1,47 @@
+usefull links used 
+
+React --> https://legacy.reactjs.org/docs/getting-started.html
+Tailwind --> https://tailwindcss.com/ 
+         --> https://tailwindcss.com/docs/installation
+           go to docs for more understanding and codes. Postcss
+
+React-Slick --> https://react-slick.neostack.com/
+
+NPM Axios --> https://www.npmjs.com/package/axios 
+
+Axios --> https://axios-http.com/docs/intro  
+
+HeadlessUI --> https://headlessui.com/react/menu#installation
+
+React-Icons --> https://react-icons.github.io/react-icons/
+
+Tailwind Shades --> https://www.tailwindshades.com/
+
+
+
+
+Building an application
+1. npx create-react-app . 
+2. npm start
+3. npm install -D tailwindcss postcss autoprefixer
+4. npx tailwindcss init
+5. npm i babel (optional package in case tailwind changes are not loading well as expected  )
+6.npm install react-slick (give the styles)
+7. npm install slick-carousel 
+8. npm i axios (mainly used to work with the API)
+9. npm install @headlessui/react
+10. npm install react-icons 
+11. npm i react-router-dom
+
+
+
+Install Prettier Extension:
+
+1. ctrl + shift + p
+    >> format Documents (configure Pop-ups(ok))
+
+2. ctrl + , 
+    >> Editor: format On Save
+
+Extension ES7+ 
+help in loading the rafce which auto completes the codes
